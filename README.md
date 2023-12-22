@@ -54,4 +54,4 @@ Acknowledgments
 
 # Contact
 
-For any inquiries, please contact [Aditya Jetely] - [ajetely@gmail.com].
+For any inquiries, please contact [Aditya Jetely](ajetely@gmail.com).
