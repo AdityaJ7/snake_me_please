@@ -10,7 +10,7 @@ setup(
     description="Snake Me Please is a Python package and command-line tool designed to convert user-defined variable names to snake_case in Python files while excluding imported variables and keywords from Python libraries.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    version="0.3",
+    version="0.4",
     author="Aditya Jetely",
     author_email="ajetely@gmail.com",
     license="public",

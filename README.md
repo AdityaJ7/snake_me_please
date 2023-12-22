@@ -32,7 +32,8 @@ snake-me-please your_directory
 ## Display Conversion Results
 
 The tool will display unique conversions and exclude imported variables or Python keywords.
-Example
+
+### Example
 
 ```bash
 
@@ -40,7 +41,8 @@ snake-me-please examples/
 ```
 
 This will process all Python files in the examples directory and display the conversion results.
-License
+
+# License
 
 This project is licensed under the GNU General Public License - see the LICENSE file for details.
 
